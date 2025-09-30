@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.class {
+   background-color: pink;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.class#third {
+   background-color: pink; 
+   font-size: 24px;
+}
+
+#first {
+color: blue;
+font-size: 36px;
+}
+
+#second {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+
